@@ -1,8 +1,8 @@
 <?php
 //Database Connection
-define('db_host', 'localhost');
-define('db_user', 'root');
-define('db_password', '');
+define('db_host', 'gmgcjwawatv599gq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('db_user', 'aq4pbb6v67j1qv2q');
+define('db_password', 'v3gz7xrwpc13r2rc');
 define('db_name', 'angularjs_login');
 class db_conn
 {
